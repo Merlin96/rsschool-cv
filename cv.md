@@ -1,6 +1,6 @@
 ![wepik-clean-curriculum-vitae-202288-165253](https://user-images.githubusercontent.com/49298783/189104587-45e24e72-a68d-4a1e-9d31-a291385d8ee4.png)
 English level: Intermediate
-code example
+```
 class User:
     def init(self,id,login,password,role):
         self.__id=id
@@ -106,4 +106,4 @@ for i in users:
 for user in users:
     user.toString()
 User.enter(users)
-//////////////
+```
